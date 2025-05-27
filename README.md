@@ -13,7 +13,7 @@ Este projeto foi desenvolvido como parte da disciplina de **Sistemas Supervisór
 - **Botões** (simulação de entradas digitais)
 - **Software Elipse Modicon Driver** (para comunicação Modbus)
 
-## 🖥️ Arquivos disponibilizados 
+## 🖥️ Arquivos Disponibilizados 
 
 Código Final: Contém a programação utilizada no arduino, lembrando que é utilizada a biblioteca "Simple-Modbus-Slave-Master"
 Exemplo Final: Imagem das telas desenvolvidas
