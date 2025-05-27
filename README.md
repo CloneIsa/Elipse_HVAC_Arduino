@@ -17,6 +17,6 @@ Este projeto foi desenvolvido como parte da disciplina de **Sistemas Supervisór
 
 - **Código Final:** Contém a programação utilizada no arduino, lembrando que é utilizada a biblioteca "Simple-Modbus-Slave-Master"
 - **Exemplo Final:** Imagem das telas desenvolvidas
-- - **Ligação Elétrica:** Projeto no TinkerCad
+- **Ligação Elétrica:** Projeto no TinkerCad
 - **Sistema HVAC_SCADA:** Arquivos de aplicação do Elipse
 
